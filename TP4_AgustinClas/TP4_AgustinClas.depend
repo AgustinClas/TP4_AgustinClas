@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1592091677 source:c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"UTN.h"
+
+1593310286 c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\linkedlist.h
+
+1593058500 c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\employee.h
+
+1592088051 c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\parser.h
+
+1589313115 c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\utn.h
+
+1592091520 source:c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"UTN.h"
+
+1593058518 source:c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593310286 source:c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"UTN.h"
+	"ControllerAutos.h"
+
+1592088051 c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\controller.h
+
+1592091851 source:c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"UTN.h"
+
+1592023467 source:c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+
+1593311073 source:c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autos.h"
+	"UTN.h"
+
+1593310286 c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\autos.h
+	"LinkedList.h"
+
+1593310286 c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\controllerautos.h
+	"LinkedList.h"
+
+1593311074 source:c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\parserautos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parserAutos.h"
+	"Autos.h"
+	"UTN.h"
+
+1593311266 source:c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\controllerautos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ControllerAutos.h"
+	"parserAutos.h"
+	"Autos.h"
+	"LinkedList.h"
+	"UTN.h"
+
+1593310286 c:\users\ale\desktop\agus utn\programacion1\tp4_agustinclas\parserautos.h
+	"LinkedList.h"
+
